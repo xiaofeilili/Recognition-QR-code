@@ -29,6 +29,7 @@
     
     self.dataArray = @[@"在原生界面长按识别二维码", @"在web端长按识别二维码", @"二维码生成", @"二维码扫描"];
     [self.view addSubview:self.tableView];
+    
 }
 
 
